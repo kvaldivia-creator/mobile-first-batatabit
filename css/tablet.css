@@ -1,0 +1,26 @@
+.tables {
+  max-width: 70%;
+  display: flex;
+  margin: 0 auto;
+  margin-bottom: 7.2rem;
+}
+
+.table__currency {
+  margin: 0;
+}
+
+.benefits__content {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  justify-content: center;
+  gap: 20px;
+}
+
+.benefit {
+  margin: 0;
+}
+
+.plans__slide {
+  justify-content: center;
+}
